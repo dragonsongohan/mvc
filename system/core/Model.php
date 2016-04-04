@@ -1,0 +1,1 @@
+<!-- Model chính, các model ứng dụng sẽ kế thừa model này -->
